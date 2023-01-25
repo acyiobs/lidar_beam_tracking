@@ -14,8 +14,8 @@ The scripts for generating the results of the ML solutions in the paper. This sc
 **Results of the script**
 | Solution       | Current beam | Future beam 1 | Future beam 2 | Future beam 3 |
 | :------------- | ------------ | ------------- | ------------- | ------------- |
-| Top-1          |     58.4     |      54.9     |      51.1     |      45.8     |
-| Top-5          |     94.9     |      94.3     |      93.4     |      92.5     |
+| Top-1          |     58.4%    |     54.9%     |     51.1%     |     45.8%     |
+| Top-5          |     94.9%    |     94.3%     |     93.4%     |     92.5%     |
 
 If you have any questions regarding the code and used dataset, please write to DeepSense 6G dataset forum https://deepsense6g.net/forum/ or contact [Shuaifeng Jiang](mailto:sjiang74@asu.edu).
 
